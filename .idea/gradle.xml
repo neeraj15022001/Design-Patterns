@@ -6,14 +6,19 @@
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/Decorator Pattern" />
         <option name="gradleJvm" value="openjdk-16" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Decorator Pattern" />
+          </set>
+        </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/DecoratorPattern" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Social Media using Decorator" />
         <option name="gradleJvm" value="openjdk-16" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/DecoratorPattern" />
+            <option value="$PROJECT_DIR$/Social Media using Decorator" />
           </set>
         </option>
       </GradleProjectSettings>

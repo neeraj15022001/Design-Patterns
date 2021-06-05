@@ -1,9 +1,9 @@
 public class Twitter implements SocialHandles{
     private final String handleName;
-    private final SocialActivity socialActivityRef;
-    public Twitter(String handleName, SocialActivity socialActivityRef) {
+//    private final SocialActivity socialActivityRef;
+    public Twitter(String handleName) {
         this.handleName = handleName;
-        this.socialActivityRef = socialActivityRef;
+//        this.socialActivityRef = socialActivityRef;
     }
     @Override
     public String socialHandleName() {
@@ -13,6 +13,6 @@ public class Twitter implements SocialHandles{
     @Override
     public void askToPostAnUpdate() {
         System.out.println("Posting an update from " + this.handleName);
-        socialActivityRef.postUpdate();
+//        socialActivityRef.postUpdate();
     }
 }

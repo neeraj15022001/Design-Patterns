@@ -9,6 +9,7 @@ public class SocialActivity implements SocialFunctionality{
     @Override
     public void postUpdate() {
         System.out.println("Posted an social update");
+        currentSocialHandleUsed.askToPostAnUpdate();
     }
 
     @Override
