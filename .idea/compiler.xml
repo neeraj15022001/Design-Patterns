@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Adapter_Pattern" target="16" />
+      <module name="Adapter_Pattern.main" target="16" />
+      <module name="Adapter_Pattern.test" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
